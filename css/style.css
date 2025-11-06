@@ -6,7 +6,7 @@
   --accent-color: #ff7b00;
   --gray-1: #1e1e1e;
   --gray-2: #2a2a2a;
-  --gray-3: #3a3a3a;
+  --gray-3: #8a8a8a;
   --font-main: 'Inter', Arial, sans-serif;
 }
 
@@ -55,7 +55,7 @@ h1 {
 }
 
 h2 {
-  color: var(--accent-color);
+  color: var(--gray-3);
   font-weight: normal;
   font-size: 1.1rem;
 }
